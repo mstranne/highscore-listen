@@ -1,0 +1,8 @@
+title: "Herr der Ringe – Bestenliste"
+description: "Wer hält am längsten gegen zwei Gegner in der Festung stand?"
+theme: jekyll-theme-cayman
+
+# Optional: Markdown-Extras
+markdown: kramdown
+kramdown:
+  input: GFM
