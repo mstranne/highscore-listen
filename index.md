@@ -1,7 +1,7 @@
-# ?? Herr der Ringe – Schlacht um Mittelerde  
+# Herr der Ringe – Schlacht um Mittelerde  
 ## Bestenliste: Am längsten standgehalten (1 vs. 2)
 
-Hier führen wir unsere Spiele mit der Festungsliste ??  
+Hier führen wir unsere Spiele mit der Festungsliste!
 Kriterien: Ein Spieler alleine gegen zwei, wie lange wurde durchgehalten.
 
 | Platz | Spieler | Gegner            | Fraktion | Dauer     |
